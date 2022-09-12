@@ -11,4 +11,4 @@
 
 Разработка веб-сайта осуществлялась с использованием HTML и CSS.
 
-Ссылка на сайт: arkh1p.github.io/anti-cafe
+Ссылка на сайт: https://arkh1p.github.io/Anti-cafe
